@@ -1,3 +1,3 @@
 # udp-vip
 ### perintah install udp VIP
-wget https://raw.githubusercontent.com/Jembudmerah/udp-vip/main/udp-custom.sh && chmod +x udp-custom.sh && ./udp-custom.sh
+<pre><code>wget https://raw.githubusercontent.com/Jembudmerah/udp-vip/main/udp-custom.sh && chmod +x udp-custom.sh && ./udp-custom.sh</code></pre>
