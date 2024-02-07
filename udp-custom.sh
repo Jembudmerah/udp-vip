@@ -61,5 +61,5 @@ systemctl enable udp-custom &>/dev/null
 #reboot
 clear
 echo -e ""
-read -p "Enter To Menu"
+read -p "TERIMAKASIH SUDAH MENGGUNAKAN LAYANAN UDP BY SABDO PALON. Enter To Menu"
 menu
